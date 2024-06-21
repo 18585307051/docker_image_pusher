@@ -1,3 +1,4 @@
 nginx
 bitnami/kafka:3.4.1
 redis:6.0.6
+apache/doris:2.0.0_alpha-be-x86_64

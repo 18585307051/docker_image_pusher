@@ -12,4 +12,3 @@ apache/hadoop:2.10
 bitnami/spark:3.5.1
 zookeeper:3.9.2
 dinkydocker/dinky-standalone-server:1.0.3-flink1.17
-apache/doris:2.0.3

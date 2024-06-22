@@ -1,14 +1,15 @@
-nginx
-bitnami/kafka:3.4.1
-redis:6.0.6
-apache/doris:2.0.0_alpha-be-x86_64
-apache/doris:2.0.0_alpha-fe-x86_64
-provectuslabs/kafka-ui
-kibana:7.13.3
-elasticsearch:7.13.3
-bitnami/prometheus
-bitnami/grafana
-apache/hadoop:2.10
-bitnami/spark:3.5.1
-zookeeper:3.9.2
-dinkydocker/dinky-standalone-server:1.0.3-flink1.17
+# nginx
+# bitnami/kafka:3.4.1
+# redis:6.0.6
+# apache/doris:2.0.0_alpha-be-x86_64
+# apache/doris:2.0.0_alpha-fe-x86_64
+# provectuslabs/kafka-ui
+# kibana:7.13.3
+# elasticsearch:7.13.3
+# bitnami/prometheus
+# bitnami/grafana
+# apache/hadoop:2.10
+# bitnami/spark:3.5.1
+# zookeeper:3.9.2
+# dinkydocker/dinky-standalone-server:1.0.3-flink1.17
+joseluisq/mysql-client

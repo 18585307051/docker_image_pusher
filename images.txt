@@ -12,4 +12,5 @@
 # bitnami/spark:3.5.1
 # zookeeper:3.9.2
 # dinkydocker/dinky-standalone-server:1.0.3-flink1.17
-joseluisq/mysql-client
+#joseluisq/mysql-client
+clickhouse/clickhouse-server:24.4

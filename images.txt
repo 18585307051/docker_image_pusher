@@ -13,4 +13,5 @@
 # zookeeper:3.9.2
 # dinkydocker/dinky-standalone-server:1.0.3-flink1.17
 #joseluisq/mysql-client
-clickhouse/clickhouse-server:24.4
+#clickhouse/clickhouse-server:24.4
+openjdk:8u342-jdk

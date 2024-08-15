@@ -16,4 +16,5 @@
 #clickhouse/clickhouse-server:24.4
 #openjdk:8u342-jdk
 #apache/hadoop:2.10.2
-apache/hadoop:3.3.5
+#apache/hadoop:3.3.5
+morunchang/fastdfs
